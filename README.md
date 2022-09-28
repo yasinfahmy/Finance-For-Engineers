@@ -9,3 +9,7 @@ In this module of the Business IT programm, we learn about the main principles o
 ## Option Pricing by Binomial Trees:
 - Compute the price for European put & call and American put options
 - Calculating the implied volatility with Newton-Raphson method and Black-Scholes formula
+
+## Correlation Analysis of Successive Returns
+- Visualization of the 'random walk' theory
+- Theory of Efficient Markets
